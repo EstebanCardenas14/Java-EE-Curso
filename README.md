@@ -5,4 +5,4 @@ Udemy course developed by Luis Esteban Cardenas using:
 - **JPA**
 - **Web Services**
 - **JSF**
-Basic Visual using Angular
+- **Basic Visual using Angular**
