@@ -1,2 +1,8 @@
-# Java-EE-Curso
-Java EE - Desde cero a Experto (EJB, JPA, Web Services, JSF) curso Udemy
+## Java-EE-Course
+### Java EE -  From Zero to Expert 
+Udemy course developed by Luis Esteban Cardenas using:
+- **JB**
+- **JPA**
+- **Web Services**
+- **JSF**
+Basic Visual using Angular
